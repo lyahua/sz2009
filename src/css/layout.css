@@ -953,7 +953,37 @@ body,html{
       width:1226px;height:614px;background-color:skyblue;margin:0 auto;
   }
   .electrcity-photo .electrcity-photo1{
-  	width:234px;height:300px;background-color:white;
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;
+  }
+  .electrcity-photo .electrcity-photo2{
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;
+  }
+  .electrcity-photo .electrcity-photo3{
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;
+  }
+  .electrcity-photo .electrcity-photo4{
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;
+  }
+  .electrcity-photo .electrcity-photo5{
+  	width:234px;height:300px;background-color:white;float:left;
+  }
+  .electrcity-photo .electrcity-photo5{
+  	width:234px;height:300px;background-color:white;float:left;
+  }
+  .electrcity-photo .electrcity-photo6{
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;margin-top:14px;
+  }
+  .electrcity-photo .electrcity-photo7{
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;margin-top:14px;
+  }
+  .electrcity-photo .electrcity-photo8{
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;margin-top:14px;
+  }
+   .electrcity-photo .electrcity-photo9{
+  	width:234px;height:300px;background-color:white;float:left;margin-right:14px;margin-top:14px;
+  }
+  .electrcity-photo .electrcity-photo10{
+  	width:234px;height:300px;background-color:white;float:left;margin-top:14px;
   }
   /* 家电图片结束 */
   /* 家电图片banner开始 */

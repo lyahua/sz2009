@@ -542,7 +542,7 @@ body,html{
     width:978px;height:340px;background-color:#f5f5f5;float:right;position:relative;
 }
 .miaosa .miaosa-two .miaosa-two-right .swiper-container .swiper-wrapper .swiper-slide1{
-    border-top:1px solid #2196f3;
+    border-top:1px solid #2196f3;text-align:center;padding-top:20px;
 }
 .miaosa .miaosa-two .miaosa-two-right .swiper-container .swiper-wrapper .swiper-slide2{
     border-top:1px solid #e53935;

@@ -83,5 +83,10 @@ $(function () {
             })
         }
     })
+    
+     $("div").click(function(){
+    	location.href="../pages/demo01.html"
+    })
+	console.log($("div"))
 
 })

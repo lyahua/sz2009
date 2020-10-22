@@ -939,7 +939,7 @@ body,html{
 
   /* 家电开始 */
   .electrcity{
-      height:58px;width:1226px;background-color:green;margin:0 auto;
+      height:58px;width:1226px;background-color:#f5f5f5;margin:0 auto;
 }
 .electrcity .electrcity-word{
   	font-size:20px;color:#333333;line-height:58px;float:left;
@@ -950,7 +950,7 @@ body,html{
   /* 家电结束 */
   /* 家电图片开始 */
   .electrcity-photo{
-      width:1226px;height:614px;background-color:skyblue;margin:0 auto;
+      width:1226px;height:614px;background-color:#f5f5f5;margin:0 auto;
   }
   .electrcity-photo .electrcity-photo1{
   	width:234px;height:300px;background-color:white;float:left;margin-right:14px;
@@ -973,7 +973,7 @@ body,html{
   .electrcity-photo .electrcity-photo4{
   	width:234px;height:300px;background-color:white;float:left;margin-right:14px;
   }
-  .electrcity-photo .electrcity-photo5:hover{
+  .electrcity-photo .electrcity-photo4:hover{
         transform: translateY(-2px);box-shadow: 0 15px 30px rgba(0,0,0,.1);;transition:all 0.2s linear;
     }
   .electrcity-photo .electrcity-photo5{

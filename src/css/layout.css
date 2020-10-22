@@ -1117,3 +1117,9 @@ body,html{
 }
 /* 备案右结束 */
 /* 备案结束 */
+
+/*回到顶部开始*/
+.gotop{
+	width:80px;height:80px;color:white;background-color:green;position:fixed;
+}
+/*回到顶部结束*/

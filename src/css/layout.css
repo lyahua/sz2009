@@ -464,6 +464,12 @@ body,html{
     border-top:1px solid #665e57;
     border-left:1px solid #665e57;
 }
+.banner .banner-three .banner-three-one ul li span{
+	font-size:26px;color:#ceccca;
+}
+.banner .banner-three .banner-three-one ul li p{
+	font-size:12px;color:#ceccca;
+}
 /* 一框结束 */
 /* 二框开始 */
 .banner .banner-three .banner-three-two{

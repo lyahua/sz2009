@@ -941,11 +941,15 @@ body,html{
   .electrcity{
       height:58px;width:1226px;background-color:green;margin:0 auto;
 }
+.electrcity-photo .electrcity-word{
+  	font-size:20px;color:#333333;line-height:58px;
+  }
   /* 家电结束 */
   /* 家电图片开始 */
   .electrcity-photo{
       width:1226px;height:614px;background-color:skyblue;margin:0 auto;
   }
+  
   /* 家电图片结束 */
   /* 家电图片banner开始 */
   .electrcity-banner{

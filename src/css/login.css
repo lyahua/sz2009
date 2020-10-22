@@ -1,0 +1,59 @@
+.box1{
+    height:98px;width:100%;background-color: Pink;
+}
+.box2{
+    height:460px;width:100%;background-color:skyblue;
+    /* background-image: url("../img/xm(3).jpg");background-repeat: no-repeat; */
+    position: relative;
+}
+.box2 .box2-main{
+    width:410px;height:556px;background-color:yellowgreen;position: absolute;right:380px;
+}
+/* 头部开始 */
+.box2 .box2-main .box-main-header{
+    height:84px;background-color:green;
+}
+.box2 .box2-main .box-main-header ul{
+    margin-left:27px;
+}
+.box2 .box2-main .box-main-header ul li{
+    float:left;
+}
+.box2 .box2-main .box-main-header ul li span{
+    font-size:28px;
+}
+.box2 .box2-main .box-main-header ul li a{
+    line-height:84px;font-size:24px;margin:0 40px;
+}
+/* 头部结束 */
+/* 身体开始 */
+.box2 .box2-main .box-main-body{
+    width:348px;height:444px;background-color:red;margin:0 auto;
+}
+.box2 .box2-main .box-main-body .txt{
+    width:332px;height:48px;border:1px #e0e0e0 solid;padding-left:14px;
+}
+.box2 .box2-main .box-main-body .pw{
+    width:332px;height:48px;border:1px #e0e0e0 solid;padding-left:14px;margin-top:14px;
+}
+.box2 .box2-main .box-main-body .btn{
+    width:348px;height:48px;outline:none;border:none;margin-top:24px;background-color:#ff6700;margin-bottom:12px;cursor: pointer;
+}
+.box2 .box2-main .box-main-body p{
+    text-align:center;
+}
+.box2 .box2-main .box-main-body p:nth-child(7){
+    margin-top:37px;
+}
+/* 身体结束 */
+/* 尾部开始 */
+.box2 .box2-main .box-main-body .box-main-foot{height:30px;width:348px;background-color:blue;
+margin-top:120px;
+}
+.box2 .box2-main .box-main-body .box-main-foot a{
+    margin:0 17px;
+}
+.box2 .box2-main .box-main-body .box-main-foot .first{
+    margin-left:56px;
+}
+/* 尾部结束 */
